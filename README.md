@@ -1,5 +1,5 @@
 # G1B3_BED_GradedProject3
-Backend - H2
+RDBMS used - H2
 
 Dependencies used-
 
